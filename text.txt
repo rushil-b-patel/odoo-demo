@@ -3,3 +3,4 @@ This is a new file in master
 this is change from master
 
 this change was done by smit
+this is a change to learn rebase (by smit)
